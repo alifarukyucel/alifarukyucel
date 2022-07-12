@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Android development
 - 👯 I’m looking to collaborate on computer vision / depth sensing experts
 - 🤔 I’m looking for help with AR tape measure app development
-- 💬 Ask me about machine learning
+- 💬 Ask me about neuroscience
 - 📫 How to reach me: alifarukyucel.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If I could eat one type of fruit for the rest of my life, it would be blueberries.
