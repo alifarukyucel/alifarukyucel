@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 - 🔭 I’m currently working on an AR app that scans you and takes your body measurements
 - 🌱 I’m currently learning Android development
