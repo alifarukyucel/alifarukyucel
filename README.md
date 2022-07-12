@@ -1,4 +1,4 @@
-![Matrix](https://user-images.githubusercontent.com/34458230/178482241-2a64071e-1191-4ac4-a698-4db19a093dd5.gif)
+![Matrix](https://user-images.githubusercontent.com/34458230/178482618-56265607-993f-45c2-8171-0448727a3202.gif)
 
 <p>
   <h1 align="center"><b>Hello there, I'm Ali 👋</b></h1>
